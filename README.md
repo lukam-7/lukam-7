@@ -23,7 +23,13 @@ Here are some of the tools and technologies I’ve been working with:
 ---
 
 ## 🌱 What I'm Working On  
-- **Final Project for Programming Fundamentals 1:** Developing a Sudoku game in Python with my classmates!  
+- **Final Project for Programming Fundamentals 1:** Developing a Sudoku game in Python with my classmates!
+ 
+---
+
+## 📫 How to Reach Me  
+Let’s connect and collaborate!  
+- **Email:** l.mladjenovic@ufl.edu
 
 ---
 
