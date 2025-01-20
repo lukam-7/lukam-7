@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m a passionate and curious learner currently p
 - 🎓 **Student at University of Florida**  
 - 💡 Aspiring Software Developer.  
 - 📚 Currently learning: **Python, C++**.  
-- 💻 Working on: **Sudoku Game for my Programming Fundamentals 1 course.**  
+- 💻 Working on: **N/A**
 - 🎯 Goals for the future: **Contribute to open source, develop impactful software, and continually learn!**  
 - 🏀 Fun fact: I played basketball for 11 years!  
 
@@ -17,14 +17,14 @@ Welcome to my GitHub profile! I’m a passionate and curious learner currently p
 ## 🚀 My Skills
 Here are some of the tools and technologies I’ve been working with:  
 - **Languages:** Python  
-- **Tools:** Git/GitHub, PyCharm
+- **Tools:** Git/GitHub, PyCharm, CLion, Visual Studio
 - **Areas of Interest:** Problem Solving and App Development 
 
 ---
 
 ## 🌱 What I'm Working On  
-- **Final Project for Programming Fundamentals 1:** Developing a Sudoku game in Python with my classmates!
- 
+- **N/A**
+  
 ---
 
 ## 📫 How to Reach Me  
