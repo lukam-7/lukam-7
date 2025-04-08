@@ -8,27 +8,21 @@ Welcome to my GitHub profile! I’m a passionate and curious learner currently p
 - 🎓 **Student at University of Florida**  
 - 💡 Aspiring Software Developer.  
 - 📚 Currently learning: **Python, C++**.  
-- 💻 Working on: **N/A**
+- 💻 Working on: **Minesweeper game**
 - 🎯 Goals for the future: **Contribute to open source, develop impactful software, and continually learn!**  
-- 🏀 Fun fact: I played basketball for 11 years!  
+- 🏀 Fun fact: I used to play basketball!  
 
 ---
 
 ## 🚀 My Skills
 Here are some of the tools and technologies I’ve been working with:  
-- **Languages:** Python  
+- **Languages:** Python, C++
 - **Tools:** Git/GitHub, PyCharm, CLion, Visual Studio
 - **Areas of Interest:** Problem Solving and App Development 
 
 ---
 
-## 🌱 What I'm Working On  
-- **N/A**
-  
----
-
 ## 📫 How to Reach Me  
-Let’s connect and collaborate!  
 - **Email:** l.mladjenovic@ufl.edu
 
 ---
